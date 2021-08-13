@@ -18,6 +18,7 @@ MongoDb	Banco de dado não relacional orietado a documentos
 Robo 3T	Interface gráfica para verificar se os dados foram persistidos
 Postman	Interface gráfica para realizar os testes
 
+ˋˋˋ
 📁 Arquitetura
  📁 filmes-db
    |
@@ -46,7 +47,7 @@ Postman	Interface gráfica para realizar os testes
    |- 📄 .gitignore
    |- 📄 package
    |- 📄 server.js
-
+ˋˋˋ
 
 
 
